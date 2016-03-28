@@ -14,7 +14,7 @@ A maven-enabled project calculating prime numbers using multi threaded environme
   b/ eratosthenes search:  /bin/startEratosthenes.bat, sample result: eratosthenes.zip
 4. 3rd party libs: junit v. 4.12, log4j v. 1.2.12
 
-both results have been produced using the following run:
+both sample results have been produced using the following run:
 
 -start=1 -end=10000000 -algo=Eratosthenes -concurrency=10
 
