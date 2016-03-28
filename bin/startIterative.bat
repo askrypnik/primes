@@ -1,0 +1,1 @@
+java -classpath D:\workspace\primes\target\classes;C:\Users\alex\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar sigma.primes.Main -start=1 -end=10000000 -algo=Iterative -concurrency=10

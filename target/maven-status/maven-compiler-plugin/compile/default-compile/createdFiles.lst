@@ -1,0 +1,8 @@
+sigma\primes\utils\BoundariesUtils.class
+sigma\primes\Main.class
+sigma\primes\interfaces\ICalculator.class
+sigma\primes\factories\StrategyFactory$1.class
+sigma\primes\factories\StrategyFactory.class
+sigma\primes\interfaces\ICalculator$CalculatorType.class
+sigma\primes\executors\IterativeCalculator.class
+sigma\primes\executors\EratosthenesSieveCalculator.class
