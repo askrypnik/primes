@@ -21,6 +21,7 @@ both sample results have been produced using the following run:
 # Data invariants:
 1. 1 <= start < end < TotalMemory (in bytes) / 4
 2. 1 <= concurrency < NumberOfCPUCores * 2
+3. algo parameter is one of [Iterative, Eratosthenes]
 
 Note: maven repo is sourced from my local workspace, so the .bat scripts would need to be reviewed
 
